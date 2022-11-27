@@ -1,0 +1,9 @@
+{
+  "name": "FinalE2E",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KrzysztofNalewajek1/FinalE2E.git",
+  "author": "krnCiklum <krn@ciklum.com>",
+  "license": "MIT",
+  "private": false
+}
